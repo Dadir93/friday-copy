@@ -1,0 +1,40 @@
+{
+  "characters": [
+     {
+      "id": "1",
+      "name": "Cheetah",
+      "image": "cheetah.jpeg",
+      "votes": "0"
+    },
+    {
+      "id": "2",
+      "name": "Lion",
+      "image": "lion.jpeg",
+      "votes":"0"
+    },
+    {
+      "id": "3",
+      "name": "Tiger",
+      "image": "tiger.jpeg",
+      "votes": "0"
+    },
+    {
+      "id": "4",
+      "name": "Eagle",
+      "image": "eagle.jpeg",
+      "votes": "0"
+    },
+    {
+      "id": "5",
+      "name": "Dolphin",
+      "image": "dolphin.jpeg",
+      "votes": "0"
+    },
+    {
+      "id": "6",
+      "name": "Mickey Mouse",
+      "image": "mickey.jpeg",
+      "votes": "0"
+    }
+  ]
+}
